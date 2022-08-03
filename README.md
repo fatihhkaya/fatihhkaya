@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @fatihhkaya
 - 👀 I’m interested in Flutter, sometimes Unity
-- 🌱 I’m currently learning Unity
+- 🌱 I’m currently learning Flutter and SwiftUI
 - 💞️ I’m looking to collaborate on Flutter
-- 📫 How to reach me ...
+- 📫 How to reach me fatihkaya55.48@icloud.com
 
 <!---
 fatihhkaya/fatihhkaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
